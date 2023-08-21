@@ -1,5 +1,0 @@
-{{#sathishkumar55555}}
-Name: Sathish Kumar
-Skills:HTML,CSS,Js,Node Js,React,Express Js,Android Development,Java,MongoDB,SQL
-Email:sathishkumarin005@gmail.com
-{{/sathishkumar55555}}
